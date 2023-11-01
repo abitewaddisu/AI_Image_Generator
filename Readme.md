@@ -1,6 +1,6 @@
 # AI Image Generator
 
-A simple MERN stack AI Image Generator Built using the OpenAi API
+MERN stack AI Image Generator Application Built using the OpenAi API
 
 ### Tech Used:
 - React
