@@ -2,6 +2,8 @@
 
 MERN stack AI Image Generator Application Built using the OpenAi API
 
+<img width="958" alt="ai_image_generator" src="https://github.com/abitewaddisu/AI_Image_Generator/assets/104774854/8ac88b19-996f-4bfd-a42a-d3ebda02de4e">
+
 ### Tech Used:
 - React
 - Tailwind
