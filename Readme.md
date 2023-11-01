@@ -1,13 +1,15 @@
 # AI Image Generator
 
-### Made with:
-- OpenAI API
+A simple MERN stack AI Image Generator Built using the OpenAi API
+
+### Tech Used:
 - React
 - Tailwind
 - Cloudinary
 - Express.js
 - Node.js
 - Mongodb
+- OpenAI API
 
 ### Features:
 - Generated Image based on a given prompt
