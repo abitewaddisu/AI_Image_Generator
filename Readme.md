@@ -1,0 +1,5 @@
+# USED TECH:
+
+- React
+- Tailwind
+- 
